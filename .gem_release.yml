@@ -1,0 +1,4 @@
+bump:
+  file: lib/voyage/ai/ruby/version.rb
+  skip_ci: true
+
