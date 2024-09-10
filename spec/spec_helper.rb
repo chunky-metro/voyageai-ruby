@@ -7,7 +7,7 @@ end
 ENV["RAILS_ENV"] = "test"
 
 require "combustion"
-require "voyage-ai-ruby"
+require "voyageai-ruby"
 
 begin
   # See https://github.com/pat/combustion
